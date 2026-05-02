@@ -1,3 +1,8 @@
+Title
+
+SEAI AI Health Prediction Project
+Description
+
 This project is a simple AI-based Flask application that predicts health risk based on input data.
 
 Technologies Used:
